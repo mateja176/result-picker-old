@@ -1,0 +1,23 @@
+{
+  "name": "result-picker",
+  "version": "1.0.0",
+  "description": "🔍 Result Picker",
+  "main": "google-result-picker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mytee306/result-picker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mytee306/result-picker/issues"
+  },
+  "homepage": "https://github.com/mytee306/result-picker#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}
