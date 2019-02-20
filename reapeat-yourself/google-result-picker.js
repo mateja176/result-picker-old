@@ -36,5 +36,5 @@
     };
   };
 
-  pickResult('LC20lb')(result => result.parentElement.href)(0);
+  pickResult('.LC20lb')(result => result.parentElement.href)(0);
 })();
