@@ -4,7 +4,7 @@
   "description": "🔍 Result Picker",
   "main": "google-result-picker.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/mytee306/result-picker#readme",
   "devDependencies": {
-    "parcel-bundler": "^1.11.0"
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
   }
 }
